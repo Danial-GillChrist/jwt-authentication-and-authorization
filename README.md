@@ -1,6 +1,17 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates JWT Authentication and Authorization with modern best practices. It includes:
+
+🔑 JWT-based Authentication & Authorization for secure login and role-based access.
+
+📝 Form handling & validation implemented using Formik & Yup.
+
+🛡️ Protected routes & routing to restrict access for unauthorized users.
+
+⚡ Built with TypeScript for type safety and maintainability.
+
+🎨 Styled using Tailwind CSS v4 for a clean and responsive UI.
+
 
 Currently, two official plugins are available:
 
