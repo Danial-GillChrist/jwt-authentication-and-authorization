@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite 
 
 This project demonstrates JWT Authentication and Authorization with modern best practices. It includes:
@@ -78,3 +79,7 @@ export default tseslint.config([
   },
 ])
 ```
+=======
+# jwt-authentication-and-authorization
+🔑 JWT Authentication &amp; Authorization – Secure login, token storage, and access control for protected routes.
+>>>>>>> c67daca669181a4b795a10ec9ef871cabc26e8b0
