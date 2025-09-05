@@ -1,0 +1,35 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+/* ---------------------------
+   THEME CONFIGURATION
+---------------------------- */
+@theme static {
+  /* Color tokens (uncomment & adjust as needed) */
+  /* --color-primary: var(--color-red-500);
+  --color-secondary: var(--color-blue-500); */
+}
+
+/* ---------------------------
+   GLOBAL UTILITIES
+---------------------------- */
+@layer utilities {
+  /* Custom font sizes */
+  .text-huge {
+    font-size: 150px;
+    line-height: 1;
+    font-weight: 700;
+  }
+
+  .text-jumbo {
+    font-size: 100px;
+    line-height: 1.1;
+    font-weight: 600;
+  }
+
+  .text-mega {
+    font-size: 80px;
+    line-height: 1.2;
+    font-weight: 600;
+  }
+}
